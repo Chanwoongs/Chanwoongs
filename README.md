@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Welcome to Chanwoongs Github
+### Welcome to Chanwoongs Github😎
 
 ### 🌱 Skills
 <div align=left> 
